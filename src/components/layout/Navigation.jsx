@@ -22,7 +22,7 @@ const Navigation = ({ title }) => {
 };
 
 Navigation.defaultProps = {
-  title: "Star Wars Wikinfor"
+  title: "Star Wars Wikinfo"
 };
 
 Navigation.propTypes = {
